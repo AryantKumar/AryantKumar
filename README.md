@@ -1,20 +1,67 @@
-## Hi there 👋
 
-# 💫 About Me:
-<br><br>---<br><br> 🚀 About Me  <br>Hey there! I'm Aryant Kumar, a passionate Full Stack App Developer specializing in building modern, scalable applications across multiple platforms.  <br><br>👨‍💻 What I Do:  <br>- 📱 Mobile & Web App Development(React, Kotlin, Java, Flutter, Swift)  <br>- 🔥 Full-Stack App Engineering (Firebase, MongoDB, Node.js)  <br>- 🤖 AI/ML Integration in mobile & web applications  <br>- 🚀 Currently working on Learnify, a programming language learning app  <br>- 📸 Running a Photography Page on Instagram: [raw.aryant](https://www.instagram.com/raw.aryant/)  <br><br> 📌 Goals:  <br>- 💡 Master Android & iOS App Development  <br>- 🏆 Solve DSA problems regularly  <br>- 🌟 Build a powerful Flutter Portfolio <br><br>📫 Connect with Me:  <br>- 🌐 Portfolio: [AryantKumar.github.io](https://AryantKumar.github.io)  <br>- 💼 LinkedIn: [Aryant Kumar](https://www.linkedin.com/in/aryant-kumar-dev/)  <br>- 📷 Instagram: [raw.aryant](https://www.instagram.com/raw.aryant/)  <br><br>---<br><br>
+<h1 align="center">Hi 👋, I'm Aryant Kumar</h1> 
+<h3 align="center">A passionate developer building Learnify - The next-gen programming learning app</h3>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AryantKumar&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raw.aryant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryant-kumar-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mynamearyant34@gmail.com) 
+## About Me 💫
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AryantKumar&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AryantKumar&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryantKumar&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 📱 Currently developing **Learnify** - An innovative programming language learning app
+- 💻 Expanding expertise in **Android & iOS development**
+- 📊 Practicing **DSA challenges** daily
+- 📸 Photography enthusiast - Follow my work [@raw.aryant](https://instagram.com/raw.aryant)
+
+## Connect with Me 🌐
+
+<p align="left">
+<a href="https://linkedin.com/in/aryant-kumar-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/raw.aryant" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://x.com/kumar_aryant" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
+<a href="https://tiktok.com/@kumar_aryant" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok" /></a>
+<a href="mailto:mynamearyant34@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+## Tech Stack 💻
+
+### Cloud & Deployment
+<p>
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase" alt="Firebase" />
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
+<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+</p>
+
+### Languages & Frameworks
+<p>
+<img src="https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</p>
+
+### Design & ML
+<p>
+<img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white" alt="Adobe" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+</p>
+
+## GitHub Stats 📊
+
+<div align="center">
+  <img src="![image](https://github.com/user-attachments/assets/fd152f15-f27c-421a-bf17-a67007ea3714)
+" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryantKumar&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+### Random Dev Quote ✍️
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AryantKumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
