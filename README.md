@@ -46,8 +46,12 @@ const aryantKumar = {
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 
+### **Web & Cross-Platform**
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,firebase" alt="Web" />
+<img src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin" />
+
 ### **Cloud & Backend**
-<img src="https://skillicons.dev/icons?i=firebase,gcp,aws,nodejs" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=firebase,gcp,aws,mongodb" alt="Backend" />
 
 ### **Tools & Design**
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,idea" alt="Tools" />
@@ -61,17 +65,21 @@ const aryantKumar = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AryantKumar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=My%20Coding%20Adventure" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AryantKumar&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AryantKumar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=My%20Coding%20Adventure" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryantKumar&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 </div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=AryantKumar&theme=radical&hide_border=true&fire=FF6B35&ring=FF6B35&currStreakLabel=FF6B35" alt="GitHub Streak" />
-</div>
+<br>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryantKumar&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AryantKumar&theme=radical&hide_border=true&fire=FF6B35&ring=FF6B35&currStreakLabel=FF6B35" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryantKumar&theme=react-dark&hide_border=true&point=FF6B35&line=FF6B35&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
 </div>
 
 ---
@@ -104,9 +112,11 @@ const aryantKumar = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=AryantKumar&theme=radical&hide_border=true" alt="Coding Time" />
-
+### 💭 Daily Inspiration
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+
+### 🎯 Profile Analytics
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryantKumar&theme=radical" alt="Profile Summary" />
 
 </div>
 
@@ -117,7 +127,7 @@ const aryantKumar = {
 <div align="center">
 
 <a href="https://linkedin.com/in/aryant-kumar-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animate=pulse" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:mynamearyant34@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -144,7 +154,7 @@ const aryantKumar = {
 ### 🚀 Every project is a new adventure
 ### 🌟 Learning, building, and growing every day!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Ready+to+make+an+impact!;Fresh+ideas%2C+fresh+code!;Let's+build+something+amazing!" alt="Graduate Energy" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Ready+to+make+an+impact!;Fresh+ideas%2C+fresh+code!;Let's+build+something+amazing!" alt="Graduate Energy" />
 
 </div>
 
@@ -169,6 +179,25 @@ const aryantKumar = {
 
 ---
 
+## 📈 **Additional Stats**
+
+<div align="center">
+
+### WakaTime Weekly Stats
+<!--START_SECTION:waka-->
+![Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=AryantKumar&theme=radical&hide_border=true&layout=compact)
+<!--END_SECTION:waka-->
+
+### Most Used Languages (Detailed)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryantKumar&theme=radical&hide_border=true&layout=donut-vertical" alt="Languages Donut" />
+
+### Contribution Calendar
+<img src="https://ghchart.rshah.org/FF6B35/AryantKumar" alt="Contribution Calendar" />
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🌟 **"Fresh mind, fresh code, fresh possibilities!"** 🌟
@@ -176,6 +205,9 @@ const aryantKumar = {
 **Thanks for stopping by! Let's build the future together** 🤝✨
 
 <img src="https://komarev.com/ghpvc/?username=AryantKumar&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+![GitHub followers](https://img.shields.io/github/followers/AryantKumar?style=for-the-badge&color=orange&labelColor=black)
+![GitHub User's stars](https://img.shields.io/github/stars/AryantKumar?style=for-the-badge&color=yellow&labelColor=black&affiliations=OWNER%2CCOLLABORATOR)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
 
