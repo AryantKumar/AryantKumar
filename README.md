@@ -73,6 +73,99 @@ const aryantKumar = {
 
 ---
 
+## 🎓 **Professional Certifications & Achievements**
+
+<div align="center">
+
+### **🏆 Verified Certifications**
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117" alt="AWS" />
+<br>
+<sub><b>AWS Certified Cloud Practitioner</b></sub>
+<br>
+<sub>🗓️ 2024 | 📍 GeeksforGeeks Course</sub>
+<br>
+<sub>✅ <a href="https://media.geeksforgeeks.org/courses/certificates/6b72a12c4dc76bb9626b1e6059bb735f.pdf">Verify Certificate</a></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Google%20Play-Store%20Listing-34A853?style=for-the-badge&logo=google-play&logoColor=white&labelColor=0d1117" alt="Google Play" />
+<br>
+<sub><b>Play Store Listing Certificate</b></sub>
+<br>
+<sub>🗓️ Jan 2025 | 📍 Google Play Academy</sub>
+<br>
+<sub>✅ Certificate ID: 129581789</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Meta-Android%20Development-1877F2?style=for-the-badge&logo=meta&logoColor=white&labelColor=0d1117" alt="Meta Android" />
+<br>
+<sub><b>Android Mobile App Development</b></sub>
+<br>
+<sub>🗓️ Aug 2024 | 📍 Meta via Coursera</sub>
+<br>
+<sub>✅ <a href="https://coursera.org/verify/QBYGWJJ1ZWLX">Verify Certificate</a></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### **📜 Certification Details**
+
+<div align="center">
+
+| 🎯 **Certification** | 🏢 **Issuing Authority** | 📅 **Date** | 🔗 **Credential ID** | ✅ **Status** |
+|:---:|:---:|:---:|:---:|:---:|
+| AWS Cloud Practitioner Exam Course | GeeksforGeeks | 2024 | `6b72a12c4dc76bb9626b1e6059bb735f` | ![Valid](https://img.shields.io/badge/Status-Valid-success?style=flat-square) |
+| Google Play Store Listing Certificate | Google Play Academy | Jan 2025 | `129581789` | ![Valid](https://img.shields.io/badge/Status-Valid-success?style=flat-square) |
+| Introduction to Android Mobile App Development | Meta (Coursera) | Aug 2024 | `QBYGWJJ1ZWLX` | ![Valid](https://img.shields.io/badge/Status-Valid-success?style=flat-square) |
+
+</div>
+
+---
+
+### **🌟 Certification Journey**
+
+<div align="center">
+
+```typescript
+const certificationAchievements = {
+    totalCertifications: 3,
+    activeCertifications: 3,
+    specializations: [
+        "☁️ Cloud Computing (AWS)",
+        "📱 Android Mobile Development", 
+        "🏪 Google Play Store Optimization",
+        "🎯 Mobile App Publishing"
+    ],
+    currentlyPursuing: [
+        "🚀 Flutter Advanced Development",
+        "🔐 Firebase Authentication & Security",
+        "📊 Google Analytics for Mobile Apps"
+    ],
+    nextGoals: "🎯 Targeting Google Associate Android Developer Certification"
+};
+```
+
+</div>
+
+---
+
+### **🔥 Recent Achievement**
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=f85149&center=true&vCenter=true&width=700&lines=%F0%9F%8E%89+Latest%3A+Google+Play+Store+Listing+Certified;%F0%9F%9A%80+Completed%3A+AWS+Cloud+Practitioner+Course;%F0%9F%8E%AF+Achieved%3A+Meta+Android+Development;%F0%9F%86+Next%3A+Flutter+Advanced+Certification!" alt="Recent Achievements" />
+
+</div>
+
+---
+
 ## 📊 **Real-Time GitHub Analytics**
 
 <div align="center">
@@ -227,11 +320,12 @@ const aryantKumar = {
   impact: "meaningful";
   collaboration: "open-source";
   future: "mobile-first";
+  certifications: "industry-validated";
 }
 ```
 
 ### **🚀 Mission Statement**
-*"Every line of code is an opportunity to create something extraordinary. As a fresh graduate, I bring new perspectives, modern techniques, and boundless enthusiasm to mobile development. My goal is to build applications that don't just function, but inspire and transform user experiences."*
+*"Every line of code is an opportunity to create something extraordinary. As a fresh graduate with industry-recognized certifications, I bring new perspectives, modern techniques, and boundless enthusiasm to mobile development. My goal is to build applications that don't just function, but inspire and transform user experiences."*
 
 </div>
 
@@ -256,10 +350,13 @@ const aryantKumar = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=58a6ff&center=true&vCenter=true&width=700&lines=%F0%9F%8E%AF+Fresh+Graduate+%7C+Infinite+Possibilities;%F0%9F%92%A1+Every+Commit+Tells+a+Story;%F0%9F%9A%80+Building+Tomorrow's+Mobile+Experiences;%F0%9F%93%B1+Innovation+Starts+Here;%F0%9F%8C%9F+Ready+to+Make+an+Impact!" alt="Journey Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=58a6ff&center=true&vCenter=true&width=700&lines=%F0%9F%8E%AF+Fresh+Graduate+%7C+Certified+Professional;%F0%9F%92%A1+Every+Commit+Tells+a+Story;%F0%9F%9A%80+Building+Tomorrow's+Mobile+Experiences;%F0%9F%93%B1+Innovation+Starts+Here;%F0%9F%8C%9F+Ready+to+Make+an+Impact!" alt="Journey Animation" />
 
 ### **📈 Real-Time Updates**
 *All statistics and metrics update automatically with every commit, contribution, and project milestone. Watch my journey unfold in real-time!*
+
+### **🏆 Certification Commitment**
+*Continuously expanding my expertise through industry-recognized certifications and hands-on projects. Next up: Google Associate Android Developer!*
 
 ### **🌟 Thank You for Visiting!**
 *Let's connect, collaborate, and create something amazing together. The future of mobile development starts now!*
